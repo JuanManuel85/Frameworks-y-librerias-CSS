@@ -1,0 +1,42 @@
+.contenedor-body{
+  background: url(../img/fondo.jpg);
+  background-attachment: scroll;
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  width: 100%;
+  height: 100%;
+}
+.barra-superior{
+  background-color: #e3f2fd;
+}
+.logo-img {
+  width: 120px;
+}
+.redes-img{
+  width: 50px;
+}
+.nav{
+  text-align: justify;
+}
+.columna-blog{
+margin-top: 10px;
+margin-left: -0.25rem !important;
+}
+nav{
+  background-color: #e3f2fd;
+}
+.lead{
+ font-size: 0.9rem;
+}
+.musica-img{
+  margin-top: 0.8rem;
+
+}
+.columna-buscar{
+  margin-top: 10px;
+  margin-left: 0.25rem !important;
+}
+.buscador{
+  margin-top: 2.0rem;
+}

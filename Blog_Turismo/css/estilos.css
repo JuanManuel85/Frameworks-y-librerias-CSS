@@ -1,0 +1,53 @@
+body{
+background-image: url("../../Blog_Turismo/img/fondo.jpg");
+background-size: cover;
+}
+
+img#logo.circle{
+  width: 120px;
+  height: 100px;
+  margin: 0.2rem;
+}
+
+nav{
+  min-height: 7rem;
+}
+h2{
+  width: 100%;
+}
+li a img{
+  width: 100%;
+}
+.responsive-img{
+  border: 0.6rem solid #ff8f00;
+  border-radius: 5px;
+}
+.media-element{
+  width: 100%;
+  border: 0.2rem solid #ff8f00;
+  border-radius: 5px;
+}
+h3{
+  height: 2rem;
+}
+div[class*="columna"]{
+  margin-bottom: 0;
+  padding: 1% 1% 1% 1% !important;
+}
+.circle{
+  width: 100%;
+  border: 0.2rem solid #ff8f00;
+}
+.columna-blog{
+  margin: 0px;
+}
+.columna-perfil{
+  margin: 0px;
+}
+
+@media (max-width: 600px) {
+  .columna-redes{
+    padding: 0 !important;
+    width: 120%;
+  }
+}
